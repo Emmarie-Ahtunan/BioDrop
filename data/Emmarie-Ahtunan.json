@@ -1,0 +1,23 @@
+{
+  "name": "Emily Marie Ahtúnan",
+  "bio": "Accessibility Professional, Web Design and Development, 💜 Open Source"
+  "links": [
+     {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/emily-marie-ahtunan/",
+        "icon": "FaLinkedin"
+      },
+     {
+        "name": "GitHub",
+        "url": "https://github.com/Emmarie-Ahtunan",
+        "icon": "FaGithub"
+      },
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/ahtunan",
+      "icon": "FaTwitter"
+    }
+  ]
+}
+
+   
